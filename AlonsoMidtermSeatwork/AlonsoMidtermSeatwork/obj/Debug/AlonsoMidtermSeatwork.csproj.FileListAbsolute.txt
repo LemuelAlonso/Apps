@@ -1,0 +1,10 @@
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\bin\Debug\AlonsoMidtermSeatwork.exe.config
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\bin\Debug\AlonsoMidtermSeatwork.exe
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\bin\Debug\AlonsoMidtermSeatwork.pdb
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.csproj.AssemblyReference.cache
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.Form1.resources
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.Properties.Resources.resources
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.csproj.GenerateResource.cache
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.csproj.CoreCompileInputs.cache
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.exe
+C:\Users\lemuel\source\repos\AlonsoMidtermSeatwork\AlonsoMidtermSeatwork\obj\Debug\AlonsoMidtermSeatwork.pdb
